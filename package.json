@@ -1,0 +1,15 @@
+{
+  "name": "ts-ui-theming-kit",
+  "version": "1.0.0",
+  "description": "UI component kit with Abstract Factory pattern and light/dark themes",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "demo": "ts-node src/demo.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "ts-node": "^10.9.2"
+  }
+}
